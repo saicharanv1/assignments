@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Webdev simplified/practice"
+		},
+		{
+			"path": "../JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}

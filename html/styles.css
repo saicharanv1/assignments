@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h2{
+    color: green;
+    text-decoration: underline;
+
+}
+p{
+    color: blueviolet;
+}
+h4{
+    color: rgb(199, 1, 249);
+}
+h3{
+    color: red;
+}
+label{
+    color: brown;
+}
+.submit{
+    background-color: orange;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-weight: bold;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+    background-color: beige;
+
+}
+html{
+    padding: 10rem;
+}
